@@ -1,6 +1,7 @@
 {
-  "homepage": "https://rishibhatt.github.io/RishabCV ",
+  
   "name": "rishab-portfolio-app",
+  "homepage": "https://rishibhatt.github.io/RishabCV ",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
