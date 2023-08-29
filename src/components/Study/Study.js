@@ -11,7 +11,7 @@ const Study = () => {
                 <div className='lg:mt-10  lg:ml-32 lg:w-2/3  p-5 pb-10 text-center lg:text-left text-black dark:text-white flex flex-col gap-3 '>
                     <h1 className='font-bold '><i className="fa-solid fa-school text-black dark:text-white"></i>  Guru Nanak Dev Engineering College <i class="fa-solid fa-location-dot ml-8"></i>  Ludhiana</h1>
                     <h3></h3>
-                    <h4 className='font-cursive text-lg text-black dark:text-white '>Batchelor's in Technology of Computer Science and Engineering -- <span className='text-gray'>2017-2021</span> </h4>
+                    <h4 className='font-cursive text-lg text-black dark:text-white '>Bachelor's in Technology of Computer Science and Engineering -- <span className='text-gray'>2017-2021</span> </h4>
                     <p className='text-black dark:text-white font-manrope text-center lg:text-left'>I completed my degree in computer science and engineering with development of projects including BookOcean (sell and buy books), Fake Job Post Predictor, Temperature and Humidity Monitor and Alert Sytem and many more</p>
                 </div>
             </div>
