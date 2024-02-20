@@ -1,7 +1,7 @@
 import React from 'react'
 import './Hero.css'
 import Rishi from '../Media/Rishi.png'
-import CV from '../Media/RishabCV2023.pdf'
+import CV from '../Media/RishabCV2024.pdf'
 const Hero = () => {
 
 

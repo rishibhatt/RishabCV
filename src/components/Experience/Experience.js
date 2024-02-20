@@ -36,7 +36,7 @@ const Experience = () => {
                             className="vertical-timeline-element--work"
                             contentStyle={{ background: 'rgb(251, 208, 218)', color: '#5F081C' }}
                             contentArrowStyle={{ borderRight: '7px solid  rgb(251, 208, 218)' }}
-                            date="March 2022 - August 2022"
+                            date="Sep 2021 - Dec 2022"
                             dateClassName='date-con text-black dark:text-gray'
                             iconStyle={{ background: 'black', color: '#fff' }}
                             icon={<i className="fa-solid fa-briefcase text-2xl ml-1 p-1 lg:text-4xl lg:p-2"></i>}
